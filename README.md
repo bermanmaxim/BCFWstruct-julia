@@ -1,7 +1,7 @@
 # BCFWstruct-julia
 BCFW struct: julia implementation
 
-This is a rewriting of [pletscher/BCFWstruct](https://github.com/pletscher/BCFWstruct) in Julia.
+This is a rewriting of [ppletscher/BCFWstruct](https://github.com/ppletscher/BCFWstruct) in Julia.
 
 It is a direct rewrite from Matlab to Julia.
 
