@@ -1,5 +1,5 @@
 # BCFWstruct-julia
-BCFW struct: julia implementation
+Block-Coordinate Frank-Wolfe solver for Structural SVMs: julia implementation
 
 This is a rewriting of [ppletscher/BCFWstruct](https://github.com/ppletscher/BCFWstruct) in Julia.
 
