@@ -14,7 +14,7 @@ type Options{Tx,Ty}
     debug_multiplier::Int
     lambda::Float64
     test_data::Tuple{Vector{Tx}, Vector{Ty}}
-    gap_threshold::Float6464
+    gap_threshold::Float64
     gap_check::UInt
 end
 
